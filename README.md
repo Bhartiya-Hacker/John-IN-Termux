@@ -5,8 +5,7 @@ This Script will install John the Ripper in termux... :)
 
 In order to have updated Termux:
 
-- Install latest Termux version from [F-Droid](https://f-droid.org/en/packages/com.termux/) 
-                                 (Version on Play Store is OUTDATED & NOT-SUPPORTED ANYMORE)
+- Install latest Termux version from [F-Droid](https://f-droid.org/en/packages/com.termux/) (Version on Play Store is OUTDATED & NOT-SUPPORTED ANYMORE)
 #Then launch Termux to initialization,
 #Reopen and follow the instructions below.. :)
 
