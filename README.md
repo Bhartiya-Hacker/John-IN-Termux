@@ -21,10 +21,18 @@ Dependecies that This Script will Install:-
 * build-essential
 * make
 
-# Installation:-
+# Auto Installation:-
 
 ```bash
 source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/John-IN-Termux/master/john.sh)
+```
+
+# Mannual Installation:-
+
+```bash
+wget https://github.com/Bhartiya-Hacker/John-In-Termux/raw/master/john.sh
+chmod +x john.sh
+bash john.sh
 ```
 
 # That's It... (-_-)
