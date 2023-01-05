@@ -10,7 +10,7 @@ LIGHTBLUE='\033[1;34m'
 NC='\033[0m' # No Color
 
 echo -e "${YELLOW}Checking if all package are updated or not ${NC}"
-cd $HOME;pkg update -y
+cd;pkg update -y
 echo -e "${GREEN}Installing dependencies${NC}"
 pkg install git clang perl build-essential make -y
 echo -e "${GREEN}Started cloning core project${NC}"
