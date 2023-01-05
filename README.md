@@ -3,11 +3,13 @@ This Script will install John the Ripper in termux... :)
 
 # Before
 
-In order to have updated Termux:
+==> In order to have updated Termux:-
 
 - Install latest Termux version from [F-Droid](https://f-droid.org/en/packages/com.termux/) (Version on Play Store is OUTDATED & NOT-SUPPORTED ANYMORE)
-#Then launch Termux to initialization,
-#Reopen and follow the instructions below.. :)
+
+- Then launch Termux to initialization,
+
+- Reopen and follow the instructions below.. :)
 
 
 
@@ -25,7 +27,7 @@ Dependecies that This Script will Install:-
 source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/John-IN-Termux/master/john.sh)
 ```
 
-# That's It... (*_*)
+# That's It... (-_-)
 
 #After the installation, Execute john by:- 
 
