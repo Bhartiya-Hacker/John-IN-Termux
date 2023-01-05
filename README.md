@@ -30,6 +30,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/John-IN-Te
 # Mannual Installation:-
 
 ```bash
+pkg install wget
 wget https://github.com/Bhartiya-Hacker/John-In-Termux/raw/master/john.sh
 chmod +x john.sh
 bash john.sh
